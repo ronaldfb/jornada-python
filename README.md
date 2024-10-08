@@ -1,9 +1,7 @@
-# jornada-python
+##Como Funciona
+**Este script Python automatiza o processo de cadastro de produtos em um sistema web específico, simulando as ações de um usuário real. A seguir, uma explicação detalhada de cada etapa:
 
-Como Funciona
-Este script Python automatiza o processo de cadastro de produtos em um sistema web específico, simulando as ações de um usuário real. A seguir, uma explicação detalhada de cada etapa:
-
-Inicialização:
+**Inicialização:
 
 Importação de bibliotecas: Carrega as bibliotecas pyautogui e pandas, essenciais para a interação com a interface gráfica e o tratamento de dados, respectivamente.
 Configuração: Define o tempo de pausa entre cada ação, permitindo ajustar a velocidade da automação.
